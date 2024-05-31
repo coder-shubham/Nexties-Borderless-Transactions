@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Borderless Transaction</string>
+    <string name="title_activity_welcome_screen">WelcomeScreen</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_send_payment_screen">send_payment_screen</string>
+    <string name="title_activity_receive_payment">ReceivePayment</string>
+    <string name="title_activity_transaction_history_screen">TransactionHistoryScreen</string>
+</resources>
